@@ -1,0 +1,29 @@
+_repo: The-Peoples-of-India_55465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, J. D. (James Drummond)
+    alias: Anderson, James Drummond
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '47404'
+    url: http://www.gutenberg.org/2009/agents/47404
+description: ''
+gutenberg_issued: '2017-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55465'
+  lccn: '14000061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Languages'
+- !lcsh 'India -- Religion'
+- !lcc 'DS'
+- !lcsh 'Caste -- India'
+- !lcsh 'Ethnology -- India'
+- GITenberg
+title: The Peoples of India
+url: http://www.gutenberg.org/ebooks/55465
